@@ -1,0 +1,74 @@
+.google-visualization-orgchart-table
+{
+	border-collapse : unset;
+}
+
+.google-visualization-orgchart-table .google-visualization-orgchart-linebottom
+{
+	border-bottom : 1px solid #ffffff50;
+}
+
+.google-visualization-orgchart-table .google-visualization-orgchart-lineright
+{
+	border-right : 1px solid #ffffff50;
+}
+
+.google-visualization-orgchart-table .google-visualization-orgchart-lineleft {
+    border-left : 1px solid #ffffff50;
+}
+
+.Node
+{
+	width : 1em;
+	min-width: 100px;
+	text-align : center;
+	vertical-align : middle;
+	font-family : inherit;
+	cursor : default;
+	border : 3px solid #ffffff50;
+	-moz-border-radius : 5px;
+	-webkit-border-radius : 5px;
+	-moz-box-shadow : rgba(0, 0, 0, 0.5) 3px 3px 3px;
+	-webkit-box-shadow : rgba(0, 0, 0, 0.5) 3px 3px 3px;
+	background-color : #ffffff;
+	background : #ffffff00;
+}
+
+.Node_Selected
+{
+	border : 3px solid #ffffff;
+	background-color : #ffffff;
+	background : #ffffff50;
+}
+
+.Node_Title
+{
+	font-style : italic;
+	font-size : 1.5em;
+}
+
+.Node_Line
+{
+	border-top : 3px solid #ffffff50;
+}
+
+.Node_Description
+{
+	font-weight : 400;
+}
+
+.Node_Image
+{
+	width : 7em;
+	height : 7em;
+}
+
+.Node_Button
+{
+	width : 100%;
+}
+
+.popover-header
+{
+	text-align : center;
+}

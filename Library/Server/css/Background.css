@@ -1,0 +1,95 @@
+[data-sa-theme = '251251']
+{
+	background-image: url(../../../../Data/System/Image/Background/251251.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251261']
+{
+	background-image: url(../../../../Data/System/Image/Background/251261.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251262']
+{
+	background-image: url(../../../../Data/System/Image/Background/251262.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251263']
+{
+	background-image: url(../../../../Data/System/Image/Background/251263.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251268']
+{
+	background-image: url(../../../../Data/System/Image/Background/251268.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251284']
+{
+	background-image: url(../../../../Data/System/Image/Background/251284.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251295']
+{
+	background-image: url(../../../../Data/System/Image/Background/251295.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251302']
+{
+	background-image: url(../../../../Data/System/Image/Background/251302.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251306']
+{
+	background-image: url(../../../../Data/System/Image/Background/251306.jpg);
+	background-color: #fff;
+}
+
+[data-sa-theme = '251306'] .card
+{
+	background-color: #000000C8;
+}
+
+[data-sa-theme = '251306'] .form-control
+{
+	background-color: #00000075;
+}
+
+[data-sa-theme = '251306'] .form-control:focus
+{
+	background-color: #000000C8;
+}
+
+[data-sa-theme = '251306'] .form-control:hover
+{
+	background-color: #000000C8;
+}
+
+[data-sa-theme = '251306'] .card
+{
+	-webkit-box-shadow: 0 1px 5px #ffffff50;
+	box-shadow: 0 1px 5px #ffffff50;
+}
+
+[data-sa-theme = '251306'] .select2-container--default .select2-selection--single
+{
+	background-color: #00000075;
+}
+
+[data-sa-theme = '251306'] .select2-container--default .select2-selection__rendered:hover
+{
+	background-color: #000000C8;
+}
+
+[data-sa-theme = '251310']
+{
+	background-image: url(../../../../Data/System/Image/Background/251310.jpg);
+	background-color: #fff;
+}
